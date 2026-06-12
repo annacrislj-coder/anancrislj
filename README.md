@@ -18,3 +18,5 @@ Análisis de datos | comunicación efectiva | Resolución de problemas | Servici
 # Proyectos
 
 # Contacto
+
+LinkedIn:ana-cristina-lopez-jaimes
