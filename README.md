@@ -8,8 +8,8 @@ Consultora especializado en la gestión y análisis de información crítica par
 
 ## Habilidades tecnológicas
 
-- Análisis y gestión de datos utilizando Excel / SQL / Python 
-- Visualizació de datos y narración de historias usando Tableau / PowerBI
+- Análisis y gestión de datos utilizando **Excel / SQL / Python** 
+- Visualizació de datos y narración de historias usando **Tableau / PowerBI**
 
 ## Habilidades blandas
 
