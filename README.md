@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Consultora...
+Consultora especializado en la gestión y análisis de información crítica para la toma de decisiones en entornos de alta complejidad. Orientado a resultados y con habilidad para traducir datos complejos en soluciones claras para stakeholders. Actualmente enfocado en consolidar una carrera en Data Analytics con una visión de negocio sólida y centrada en el cliente.
 
 ## Habilidades tecnológicas
 
