@@ -1,6 +1,7 @@
 # Ana Cristina Lopez
 
-¡Hola! Bienvenido a mi portafolio de proyectos de Análisis de Datos.
+¡Hola! :wave:
+Bienvenido a mi portafolio de proyectos de Análisis de Datos.
 
 ## Sobre mí
 
